@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+body {
+    background-color: hsl(218, 23%, 16%);
+    color: hsl(193, 38%, 86%);
+    font-family: 'manrope';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 18px;
+}
+
+.container {
+    background-color: hsl(217, 19%, 24%);
+    width: 365px;
+    min-width: 336px;
+    height: 235px;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 8px;
+}
+
+.highlight h6 {
+    color: hsl(150, 100%, 66%);
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    letter-spacing: 3px;
+}
+
+.informacoes p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.informacoes img {
+    display: block;
+    margin: 0 auto;
+    max-width: 88%;
+    height: auto;
+    padding-top: 25px;
+}
+
+.botao {
+    background-color: hsl(150, 100%, 66%);
+    display: block;
+    margin: 30px auto 10px auto;
+    padding: 15px 15px;
+    border-radius: 100%;
+    border: none;
+}
+
+.botao img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 18px;
+    height: auto;
+} 
+
+.botao:hover {
+    color: #53FFAB;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px hsl(150, 100%, 66%);}
