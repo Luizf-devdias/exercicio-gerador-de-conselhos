@@ -16,7 +16,6 @@ Para que o projeto fique completo, será necessário:
 - 🎨 Melhorar a responsividade e os estilos da interface.
 
 ## 📸 Imagens do Projeto
-_Aqui você pode adicionar capturas de tela do projeto_
 
 ![Captura de Tela 1](./src/images/Demostração%20gerador%20de%20conselhos.png)
 
