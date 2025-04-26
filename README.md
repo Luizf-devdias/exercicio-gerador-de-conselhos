@@ -1,6 +1,7 @@
 # 🌟 Gerador de Conselhos
 
 Este é um projeto simples de um **Gerador de Conselhos**, desenvolvido como parte dos exercícios do curso **DevQuest**.
+#### Acesse o projeto aqui: https://luizf-devdias.github.io/exercicio-gerador-de-conselhos/
 
 ## 🛠 Tecnologias Utilizadas
 - **HTML**: Estrutura da página.
